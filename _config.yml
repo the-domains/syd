@@ -1,0 +1,28 @@
+name: Syd
+favicon: null
+layout_spectrum: 0.3130728986579925
+typography_spectrum: 0.7682204027660191
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07458688132464886
+  lightness: 0.978206890868023
+  saturation: 0.8798049541655928
+  rhythmicContrast: 0.9055210882797837
+purpose: []
